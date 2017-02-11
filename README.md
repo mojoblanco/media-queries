@@ -37,3 +37,6 @@ hi-res laptops and desktops
 ```css
 @media (min-width:80.063em) { }
 ```
+
+**NOTE** All the media queries above are mobile first. To reverse the order, use *max-width*
+
